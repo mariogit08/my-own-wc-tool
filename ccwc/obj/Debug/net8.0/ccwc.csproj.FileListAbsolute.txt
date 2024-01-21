@@ -1,0 +1,14 @@
+/Users/mariochaves/repos/MyOwnWcTool/ccwc/bin/Debug/net8.0/ccwc
+/Users/mariochaves/repos/MyOwnWcTool/ccwc/bin/Debug/net8.0/ccwc.deps.json
+/Users/mariochaves/repos/MyOwnWcTool/ccwc/bin/Debug/net8.0/ccwc.runtimeconfig.json
+/Users/mariochaves/repos/MyOwnWcTool/ccwc/bin/Debug/net8.0/ccwc.dll
+/Users/mariochaves/repos/MyOwnWcTool/ccwc/bin/Debug/net8.0/ccwc.pdb
+/Users/mariochaves/repos/MyOwnWcTool/ccwc/obj/Debug/net8.0/ccwc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariochaves/repos/MyOwnWcTool/ccwc/obj/Debug/net8.0/ccwc.AssemblyInfoInputs.cache
+/Users/mariochaves/repos/MyOwnWcTool/ccwc/obj/Debug/net8.0/ccwc.AssemblyInfo.cs
+/Users/mariochaves/repos/MyOwnWcTool/ccwc/obj/Debug/net8.0/ccwc.csproj.CoreCompileInputs.cache
+/Users/mariochaves/repos/MyOwnWcTool/ccwc/obj/Debug/net8.0/ccwc.dll
+/Users/mariochaves/repos/MyOwnWcTool/ccwc/obj/Debug/net8.0/refint/ccwc.dll
+/Users/mariochaves/repos/MyOwnWcTool/ccwc/obj/Debug/net8.0/ccwc.pdb
+/Users/mariochaves/repos/MyOwnWcTool/ccwc/obj/Debug/net8.0/ccwc.genruntimeconfig.cache
+/Users/mariochaves/repos/MyOwnWcTool/ccwc/obj/Debug/net8.0/ref/ccwc.dll
